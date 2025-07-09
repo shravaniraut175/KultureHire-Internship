@@ -56,6 +56,7 @@ The main goal of this project is to explore how Gen Z individuals shape their ca
 
 ## 🙋‍♀️ About Me
 **Shravani Raut**
+
 Data Analytics Intern – Kulture Hire
 
 ---
